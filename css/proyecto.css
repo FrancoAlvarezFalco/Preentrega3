@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* CSS DE INDEX */
+.Título {
+  background-color: #ff9100;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
+}
+
+.Opciones {
+  margin: 0;
+  padding: 0;
+  background-color: #ff9100;
+  border: solid rgb(0, 0, 0);
+  text-align: center;
+}
+
+.cuerpo_index {
+  line-height: 1, 6;
+}
+
+.foot {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.icons {
+  color: rgb(98, 80, 255);
+}
+
+/* CSS DE RECETAS LIVIANAS */
+.TítuloRL {
+  background-color: #0f9921;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
+}
+
+.OpcionesRL {
+  margin: 0;
+  padding: 0;
+  background-color: #11800d;
+  border: solid rgb(0, 0, 0);
+  text-align: center;
+}
+
+/* CSS DE AYUDA */
+.TítuloA {
+  background-color: #004df3;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
+}
+
+.OpcionesA {
+  margin: 0;
+  padding: 0;
+  background-color: #004df3;
+  border: solid rgb(0, 0, 0);
+  text-align: center;
+}
+
+/* CSS DE RECETAS */
+.TítuloR {
+  background-color: #f3c323;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
+}
+
+.OpcionesR {
+  margin: 0;
+  padding: 0;
+  background-color: #f3c323;
+  border: solid rgb(0, 0, 0);
+  text-align: center;
+}
+
+/* CSS DE TALLER VIRTUAL */
+.Título2 {
+  background-color: rgb(212, 37, 75);
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
+}
+.Opciones2 {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(212, 37, 75);
+  border: solid rgb(0, 0, 0);
+  text-align: center;
+}
+
+.Taller_virtual {
+  background-color: #f3c180;
+}
+/* CSS DE CONOCENOS */
+.Título3 {
+  background-color: rgb(205, 0, 212);
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
+}
+.Opciones3 {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(205, 0, 212);
+  border: solid rgb(0, 0, 0);
+  text-align: center;
+}
