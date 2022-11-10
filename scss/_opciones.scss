@@ -1,0 +1,48 @@
+$mar-pad: 0;
+$border: solid black;
+
+.Opciones {
+  background-color: #ff9100;
+  margin: $mar-pad;
+  padding: $mar-pad;
+  border: $border;
+  text-align: center;
+}
+
+.OpcionesR {
+  background-color: #f3c323;
+  margin: $mar-pad;
+  padding: $mar-pad;
+  border: $border;
+  text-align: center;
+}
+.OpcionesRL {
+  background-color: #0f9921;
+  margin: $mar-pad;
+  padding: $mar-pad;
+  border: $border;
+  text-align: center;
+}
+.OpcionesA {
+  background-color: #6b03e2;
+  margin: $mar-pad;
+  padding: $mar-pad;
+  border: $border;
+  text-align: center;
+}
+
+.Opciones2 {
+  background-color: rgb(212, 37, 75);
+  margin: $mar-pad;
+  padding: $mar-pad;
+  border: $border;
+  text-align: center;
+}
+
+.Opciones3 {
+  background-color: #004df3;
+  margin: $mar-pad;
+  padding: $mar-pad;
+  border: $border;
+  text-align: center;
+}
